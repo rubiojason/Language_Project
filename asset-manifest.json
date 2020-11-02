@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Language-Project/static/css/main.ee1942d7.chunk.css",
-    "main.js": "/Language-Project/static/js/main.b4ea86a6.chunk.js",
-    "main.js.map": "/Language-Project/static/js/main.b4ea86a6.chunk.js.map",
-    "runtime-main.js": "/Language-Project/static/js/runtime-main.6ff3897e.js",
-    "runtime-main.js.map": "/Language-Project/static/js/runtime-main.6ff3897e.js.map",
-    "static/js/2.783ea629.chunk.js": "/Language-Project/static/js/2.783ea629.chunk.js",
-    "static/js/2.783ea629.chunk.js.map": "/Language-Project/static/js/2.783ea629.chunk.js.map",
-    "index.html": "/Language-Project/index.html",
-    "precache-manifest.07710f92f18c0068240aba9d3cb8fcb7.js": "/Language-Project/precache-manifest.07710f92f18c0068240aba9d3cb8fcb7.js",
-    "service-worker.js": "/Language-Project/service-worker.js",
-    "static/css/main.ee1942d7.chunk.css.map": "/Language-Project/static/css/main.ee1942d7.chunk.css.map",
-    "static/js/2.783ea629.chunk.js.LICENSE.txt": "/Language-Project/static/js/2.783ea629.chunk.js.LICENSE.txt"
+    "main.css": "/Language_Project/static/css/main.ee1942d7.chunk.css",
+    "main.js": "/Language_Project/static/js/main.84a6f34f.chunk.js",
+    "main.js.map": "/Language_Project/static/js/main.84a6f34f.chunk.js.map",
+    "runtime-main.js": "/Language_Project/static/js/runtime-main.d1a97075.js",
+    "runtime-main.js.map": "/Language_Project/static/js/runtime-main.d1a97075.js.map",
+    "static/js/2.fae8622a.chunk.js": "/Language_Project/static/js/2.fae8622a.chunk.js",
+    "static/js/2.fae8622a.chunk.js.map": "/Language_Project/static/js/2.fae8622a.chunk.js.map",
+    "index.html": "/Language_Project/index.html",
+    "precache-manifest.0ae764caa06664be108ba9632748ee33.js": "/Language_Project/precache-manifest.0ae764caa06664be108ba9632748ee33.js",
+    "service-worker.js": "/Language_Project/service-worker.js",
+    "static/css/main.ee1942d7.chunk.css.map": "/Language_Project/static/css/main.ee1942d7.chunk.css.map",
+    "static/js/2.fae8622a.chunk.js.LICENSE.txt": "/Language_Project/static/js/2.fae8622a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6ff3897e.js",
-    "static/js/2.783ea629.chunk.js",
+    "static/js/runtime-main.d1a97075.js",
+    "static/js/2.fae8622a.chunk.js",
     "static/css/main.ee1942d7.chunk.css",
-    "static/js/main.b4ea86a6.chunk.js"
+    "static/js/main.84a6f34f.chunk.js"
   ]
 }
